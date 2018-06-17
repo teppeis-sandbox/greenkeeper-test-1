@@ -1,6 +1,8 @@
 Greenkeeper test
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/teppeis-sandbox/greenkeeper-test-1.svg)](https://greenkeeper.io/)
+
 [![build status][circleci-image]][circleci-url]
 ![Node.js Version Support][node-version]
 
